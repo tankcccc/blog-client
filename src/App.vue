@@ -7,13 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-// import Login from './components/Login.vue'
+import Login from './components/Login.vue'
  
 export default {
   name: 'app',
   components: {
     HelloWorld,
-    // Login
+    Login
   }
 }
 </script>
