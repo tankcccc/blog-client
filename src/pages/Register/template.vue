@@ -1,7 +1,6 @@
 <template>
-    <div id="login">
-      登录页面
-      <el-button>默认按钮</el-button>
+    <div id="register">
+      注册页面
   </div>
 </template>
 <script src="./template.js">
