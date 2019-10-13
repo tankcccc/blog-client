@@ -7,6 +7,6 @@
 <script src="./template.js">
 
 </script>
-<style src="./template.css">
+<style scoped lang="less" src="./template.less">
 
 </style>
